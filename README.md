@@ -7,7 +7,7 @@ I'm a senior student at Sai Gon University, fueled by a passion for **JavaScript
 
 ### 🌟 About Me
 - **Based in:** Hồ Chí Minh, Viet Nam  
-- **Portfolio:** [Huynh Nhut Duong](https://hnduong0711.github.io)  
+- **Portfolio:** [Huynh Nhut Duong](https://myportfolio-blond-psi.vercel.app/)  
 - **Email me:** [hnduong0714@gmail.com](mailto:hnduong0714@gmail.com)  
 - **Currently mastering:** ReactJS, Spring  
 - **Open to:** Collaborating on exciting projects  
